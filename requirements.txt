@@ -1,3 +1,4 @@
 # Dependencies
 
-Flask==2.2.5
+Flask==3.0.3
+Werkzeug==3.0.3
